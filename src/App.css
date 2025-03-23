@@ -1,0 +1,46 @@
+.app-container {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hero-section {
+  background-color: #0056b3;
+  color: white;
+  text-align: center;
+  padding: 20px 20px;
+}
+
+.hero-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.hero-title {
+  font-size: 2.8rem;
+  margin-bottom: 2rem;
+}
+
+.hero-subtitle {
+  font-size: 1.2rem;
+  margin-top: 0;
+}
+
+.main-content {
+  padding: 10px 20px;
+  background-color: #f8f9fa;
+  min-height: 400px;
+  text-align: center;
+}
+
+.footer {
+  background-color: #343a40;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+.footer p {
+  font-size: 1rem;
+}
